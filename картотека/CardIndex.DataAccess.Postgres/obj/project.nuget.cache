@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UT42A/iYhywqjSxdjBn4iQPd3WOCByQlE0Bb5U1GNH9UuyexhdCeDNiZOlTFF5d8YALo5iG85aBBxmUdCykVvw==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\C#\\картотека\\CardIndex.DataAccess.Postgres\\CardIndex.DataAccess.Postgres.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UltraZeon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\UltraZeon\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\UltraZeon\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

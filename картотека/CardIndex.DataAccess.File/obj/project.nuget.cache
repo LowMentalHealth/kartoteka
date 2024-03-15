@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fye4NYSBIlps1b82Amw1VwnO2SF3FvP2Fdj0Hm513EJ2e/Onw4SrStbeLfXfJ60IIJxz5wBvNHutB+KCQfZ8BQ==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\C#\\картотека\\CardIndex.DataAccess.File\\CardIndex.DataAccess.File.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UltraZeon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
